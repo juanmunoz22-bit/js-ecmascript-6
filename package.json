@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/juanmunoz22-bit/js-ecmascript-6/issues"
   },
-  "homepage": "https://github.com/juanmunoz22-bit/js-ecmascript-6#readme"
+  "homepage": "https://github.com/juanmunoz22-bit/js-ecmascript-6#readme",
+  "type": "module"
 }
